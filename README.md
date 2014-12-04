@@ -1,6 +1,8 @@
 PageableObservableCollection
 ============================
-A component which extends ObservableCollection to enable continuous/infinite scrolling for Windows Phone. This is an example project which uses the component. You can simply copy/paste it into your project.
+A component which extends ObservableCollection to enable continuous/infinite scrolling for Windows Phone. This is an example project which uses the component.
+
+You can simply copy/paste the file PageableObservableCollection.cs into your project.
  
  
 Usage
